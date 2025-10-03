@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lanre. an aspiring Data Student and current BSc Information Management student with a specialization in Data Science. I’m passionate about building solutions with Python, C#, and cloud technologies like Azure.<br><br>I’m currently developing my skills in data engineering, working with PySpark, Microsoft Fabric, and Power BI, while actively contributing to the tech community through the Microsoft Learn Student Ambassadors program.<br><br>Always learning, always building let’s connect and grow together!<br><br>
+Hi, I'm Lanre. an aspiring Data Student and final year student of the Information Management Bachelors degree with a specialization in Data Science Protection & Security. I’m passionate about building solutions with Python, C#, and cloud technologies like Azure.<br><br>I’m currently developing my skills in data engineering, data science using the Microsoft ecosystem, while actively contributing to the tech community through the Microsoft Learn.<br><br>Always learning, always building let’s connect and grow together!<br><br>
 
 
 ## 🌐 Socials:
