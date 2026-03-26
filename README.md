@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lanre. An aspiring Data Specialists and final year student of the Information Management Bachelors degree with a specialization in Data Science Protection & Security. I’m passionate about building solutions with Python, C#, and cloud technologies like Azure.<br><br>I’m currently developing my skills in data engineering, data science using the Microsoft ecosystem, while actively contributing to the tech community through the Microsoft Learn.<br><br>Always learning, always building let’s connect and grow together!<br><br>
+Hi, I'm Lanre A. An aspiring DS & InfoSec professional, studying Information Management @ Thomas More. I’m passionate about building solutions with Python, C#, and cloud technologies like Azure.<br><br>I’m currently developing my skills in data engineering, data science using the Microsoft ecosystem, while actively contributing to the tech community through the Microsoft Learn.<br><br>Always learning, always building let’s connect and grow together!<br><br>
 
 
 ## 🌐 Socials:
@@ -8,7 +8,6 @@ Hi, I'm Lanre. An aspiring Data Specialists and final year student of the Inform
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![.Net](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
 ![MySQL](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
@@ -19,8 +18,9 @@ Hi, I'm Lanre. An aspiring Data Specialists and final year student of the Inform
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LanreAdetola&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
