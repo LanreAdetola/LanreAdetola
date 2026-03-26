@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Lanre A. An aspiring DS & InfoSec professional, studying Information Management @ Thomas More. I’m passionate about building solutions with Python, C#, and cloud technologies like Azure.<br><br>I’m currently developing my skills in data engineering, data science using the Microsoft ecosystem, while actively contributing to the tech community through the Microsoft Learn.<br><br>Always learning, always building let’s connect and grow together!<br><br>
+Hi, I’m Lanre A — an Information Management student at Thomas More, specializing in Data & Cloud technologies.
+
+I design and build data-driven solutions using Python, C#, and Azure, including data pipelines, analysis workflows, and cloud-based applications. My focus is on delivering scalable and secure systems that translate data into real-world insights.
+
+Alongside my academic work, I’ve completed multiple Microsoft certifications and applied them in hands-on projects within the Microsoft ecosystem.
 
 
 ## 🌐 Socials:
