@@ -1,22 +1,30 @@
 ## Hi, I'm Lanre 👋
 
-Cloud and infrastructure engineer focused on Azure — I build and automate
-the things that run other things.
+I build end-to-end solutions on Azure — from infrastructure and 
+CI/CD pipelines to data platforms, AI workloads, and cloud security.
 
-Currently working toward AZ-104 (Azure Administrator) with AZ-305
-(Solutions Architect) to follow. My stack is Azure, Bicep, GitHub Actions,
-Python, and .NET.
+My background spans cloud engineering, MLOps, Microsoft Fabric, 
+AI agents, and identity & compliance — built through 300+ hours of 
+hands-on Microsoft Learn, numerous Applied Skills credentials, and real 
+projects deployed on Azure.
+
+**Stack:** Azure · Bicep · GitHub Actions · Python · .NET · 
+Cosmos DB · Microsoft Fabric · Azure AI Foundry
 
 **Recent builds:**
-- [study-tracker](https://github.com/LanreAdetola/study-tracker) — Blazor WASM + Azure Functions + Cosmos DB, deployed on Azure Static Web Apps
-- [azure-iac-bicep](https://github.com/LanreAdetola/testing_bicep_deployments) — modular Bicep template provisioning Container Apps, Key Vault, ACR, and monitoring via OIDC CI/CD
+- [study-tracker](https://github.com/LanreAdetola/study-tracker) — 
+  Blazor WASM + Azure Functions + Cosmos DB on Azure Static Web Apps
+- [azure-iac-bicep](https://github.com/LanreAdetola/testing_bicep_deployments) — 
+  modular Bicep: Container Apps, Key Vault, ACR, Monitor via OIDC CI/CD
+- [football-analytics](https://lanrefcanalytics.streamlit.app/) — 
+  live data viz app built with Python and Streamlit
 
-**Certifications:** AZ-900 · SC-900 · DP-900 · AI-900 · PL-900 · MS-900 · GH-300
+**Certifications:** AZ-900 · SC-900 · DP-900 · AI-900 · PL-900 · 
+MS-900 · GH-900 · GH-300 
 
-Bachelor of Information Management — Thomas More Mechelen (Data Science & Security, 2026)
+BSc Information Management — Thomas More Mechelen 
+(Data Science, Protection & Security · 2026)
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Agent_Novv)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
