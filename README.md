@@ -1,7 +1,19 @@
-# 💫 About Me:
-Hi, I'm Lanre A — an Information Management student at Thomas More, specializing in Data & Cloud technologies.
-I design and build data-driven solutions using Python, C#, and Azure, including data pipelines, analysis workflows, and cloud-based applications. My focus is on delivering scalable and secure systems that translate data into real-world insights.
-Alongside my academic work, I've completed multiple Microsoft certifications and applied them in hands-on projects within the Microsoft ecosystem.
+## Hi, I'm Lanre 👋
+
+Cloud and infrastructure engineer focused on Azure — I build and automate
+the things that run other things.
+
+Currently working toward AZ-104 (Azure Administrator) with AZ-305
+(Solutions Architect) to follow. My stack is Azure, Bicep, GitHub Actions,
+Python, and .NET.
+
+**Recent builds:**
+- [study-tracker](https://github.com/LanreAdetola/study-tracker) — Blazor WASM + Azure Functions + Cosmos DB, deployed on Azure Static Web Apps
+- [azure-iac-bicep](https://github.com/LanreAdetola/testing_bicep_deployments) — modular Bicep template provisioning Container Apps, Key Vault, ACR, and monitoring via OIDC CI/CD
+
+**Certifications:** AZ-900 · SC-900 · DP-900 · AI-900 · PL-900 · MS-900 · GH-300
+
+Bachelor of Information Management — Thomas More Mechelen (Data Science & Security, 2026)
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Agent_Novv)
