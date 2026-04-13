@@ -22,7 +22,7 @@ Cosmos DB · Microsoft Fabric · Azure AI Foundry
 **Certifications:** AZ-900 · SC-900 · DP-900 · AI-900 · PL-900 · 
 MS-900 · GH-900 · GH-300 
 
-BSc Information Management — Thomas More Mechelen 
+Bachelors of Information Management & Multimedia — Thomas More Mechelen 
 (Data Science, Protection & Security · 2026)
 
 
