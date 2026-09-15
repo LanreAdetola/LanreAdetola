@@ -1,15 +1,16 @@
 ## Hi, I'm Lanre 👋
 
-I build end-to-end solutions on Azure — from infrastructure and 
-CI/CD pipelines to data platforms, AI workloads, and cloud security.
+I build end-to-end solutions on Azure — from Iac via 
+CI/CD pipelines to Data platforms, AI workloads, and Cloud security.
 
-My background spans cloud engineering, MLOps, Microsoft Fabric, 
-AI agents, and identity & compliance — built through 300+ hours of 
-hands-on Microsoft Learn, numerous Applied Skills credentials, and real 
-projects deployed on Azure.
+My background spans Cloud Engineering, Data & AI (Microsoft Fabric & Foundry) 
+Gen AI Apps, AI agents, Identity & Compliance.
+Built through 400+ hours of hands-on self-study on Microsoft Learn, 
+numerous Applied Skills credentials, guidance from some amazing Microsoft MVP's 
+and real projects deployed on Azure. 
 
 **Stack:** Azure · Bicep · GitHub Actions · Python · .NET · 
-Cosmos DB · Microsoft Fabric · Azure AI Foundry
+Cosmos DB · Microsoft Fabric · Microsoft Foundry
 
 **Recent builds:**
 - [study-tracker](https://github.com/LanreAdetola/study-tracker) — 
