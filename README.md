@@ -1,29 +1,28 @@
 ## Hi, I'm Lanre 👋
 
-I build end-to-end solutions on Azure — from Iac via 
-CI/CD pipelines to Data platforms, AI workloads, and Cloud security.
+I build end-to-end solutions on Azure — from IaC and CI/CD pipelines
+to data platforms, AI workloads, and cloud security.
 
-My background spans Cloud Engineering, Data & AI (Microsoft Fabric & Foundry) 
-Gen AI Apps, AI agents, Identity & Compliance.
-Built through 400+ hours of hands-on self-study on Microsoft Learn, 
-numerous Applied Skills credentials, guidance from some amazing Microsoft MVP's 
-and real projects deployed on Azure. 
+My background spans Cloud Engineering, Data & AI (Microsoft Fabric & Foundry).
+Built through 380+ hours of hands-on self-study on Microsoft Learn,
+22 Applied Skills credentials, guidance from some amazing Microsoft MVPs,
+and real projects deployed on Azure & shared on Linkedin.
 
-**Stack:** Azure · Bicep · GitHub Actions · Python · .NET · 
+**Stack:** Azure · Bicep · Terraform · GitHub Actions · Python · .NET ·
 Cosmos DB · Microsoft Fabric · Microsoft Foundry
 
 **Recent builds:**
-- [study-tracker](https://github.com/LanreAdetola/study-tracker) — 
+- [az104-terraform-landing-zone](https://github.com/LanreAdetola/az104-terraform-landing-zone) —
+  modular Terraform landing zone on Azure: hub-and-spoke networking, Managed Identities, Cosmos DB, Azure Policy governance
+- [study-tracker](https://github.com/LanreAdetola/study-tracker) —
   Blazor WASM + Azure Functions + Cosmos DB on Azure Static Web Apps
-- [azure-iac-bicep](https://github.com/LanreAdetola/testing_bicep_deployments) — 
-  modular Bicep: Container Apps, Key Vault, ACR, Monitor via OIDC CI/CD
-- [football-analytics](https://lanrefcanalytics.streamlit.app/) — 
+- [football-analytics](https://lanrefcanalytics.streamlit.app/) —
   live data viz app built with Python and Streamlit
 
-**Certifications:** AZ-900 · SC-900 · DP-900 · AI-900 · PL-900 · 
-MS-900 · GH-900 · GH-300 
+**Certifications:** AZ-900 · SC-900 · DP-900 · AI-900 · PL-900 ·
+MS-900 · GH-900 · GitHub Copilot (GH-300)
 
-Bachelors of Information Management & Multimedia — Thomas More Mechelen 
+Bachelor's of Information Management & Multimedia — Thomas More Mechelen
 (Data Science, Protection & Security · 2026)
 
 
